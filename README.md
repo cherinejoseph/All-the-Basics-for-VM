@@ -1,5 +1,15 @@
 # All-the-Basics-for-VM
 
+# sections
+
+1. [What Do VM Professionals Actually Do?](#what-do-vm-professionals-actually-do)
+2. [Intro](#intro)
+3. [VM Knowledge Pre-Requisites](#vm-knowledge-pre-requisites)
+4. [Lab](#lab)
+5. [Lab Exercise Answers](#lab-exercise-answers)
+6. [Scenario-Based Exercises](#scenario-based-exercises)
+7. [Help & Outro](#help-outro)
+
 ## Getting Started with Vulnerability Management (VM)
 If you're looking to break into cybersecurity, I highly recommend starting with Vulnerability Management (VM). From my experience, it’s one of the best entry points into the field. It's often considered a junior-level role, so it's a great place to start, even if you're new to cybersecurity. Plus, unlike some other positions, the skills you gain in VM are directly relevant to the field and can really help you grow into more advanced roles down the line.
 
